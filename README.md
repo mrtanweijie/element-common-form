@@ -24,24 +24,12 @@ element-ui 通用表单组件
   data: {},
   items: [
     {
-      label: '业务类型',
-      name: 'biz_type',
+      label: '类型',
+      name: 'type',
       type: 'select',
       dataList: [{
         index: 1,
-        text: '电商业务部'
-      }, {
-        index: 2,
-        text: '现金产品中心'
-      }, {
-        index: 3,
-        text: '渠道业务部'
-      }, {
-        index: 4,
-        text: '行业产品中心'
-      }, {
-        index: 5,
-        text: '平台开放中心'
+        text: '相机'
       }, {
         index: 6,
         text: '其他'
