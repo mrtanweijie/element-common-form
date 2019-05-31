@@ -16,7 +16,8 @@
     "component"
   ],
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/mrtanweijie/element-common-form.git"
   },
   "author": "twj",
   "license": "MIT",
