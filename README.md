@@ -5,8 +5,13 @@ element-ui 通用表单组件
 
 **1、使用方法**
 
+**安装**
 ```
-<common-form :form-option="formOption" :is-reset-form-flag="isResetFormFlag"></common-form>
+npm i element-common-form
+```
+**使用**
+```
+<element-common-form :form-option="formOption" :is-reset-form-flag="isResetFormFlag"></element-common-form>
 ```
 接收的props:
 
