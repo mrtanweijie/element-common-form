@@ -1,6 +1,6 @@
 {
   "name": "element-common-form",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack --config build/webpack.config.js --watch",
     "build": "node build/build.js",
