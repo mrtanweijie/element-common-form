@@ -77,7 +77,9 @@ formOption: {
 | rules| 表单校验规则 | Object|否|节点名需要与items配置的name一一对应|
 | btnList| 按钮列表 | Array|否|会在回调函数包含表单的数据及表单引用|
 
+**5、备注**
 
+当前仅支持少数表单项，可以clone到本地或者直接拷贝源码到项目中根据具体项目进行扩展
 
 ### License
 MIT
