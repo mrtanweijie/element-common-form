@@ -79,7 +79,7 @@ formOption: {
 
 **5、备注**
 
-当前仅支持少数表单项，可以clone到本地或者直接拷贝源码到项目中根据具体项目进行扩展
+当前仅支持少数表单项，可以clone到本地或者直接拷贝`ElementCommonForm.vue`源码到项目中根据具体项目进行扩展
 
 ### License
 MIT
